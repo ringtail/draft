@@ -9,3 +9,4 @@ examples/**/Dockerfile
 examples/**/chart/
 examples/**/draft.toml
 examples/**/.draftignore
+examples/**/.draftignore
